@@ -1,4 +1,4 @@
-package DigitalClock;
+package digitalClock;
 
 public class Time {
 	 public String[] oneString() {
